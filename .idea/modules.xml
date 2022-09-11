@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Delicious.iml" filepath="$PROJECT_DIR$/.idea/modules/Delicious.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Delicious.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Delicious.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Delicious.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Delicious.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Delicious.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Delicious.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Delicious.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Delicious.app.unitTest.iml" />
     </modules>
   </component>
 </project>
